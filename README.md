@@ -1,4 +1,4 @@
-# Exercise 2 - GitLab Service
+# Exercise 1 - GitLab Service
 
 ## Description
 This application has been thought to be an API Rest which comminicates with the GitLab Api in order to create a new Project with
